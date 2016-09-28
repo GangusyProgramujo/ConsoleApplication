@@ -31,6 +31,8 @@ namespace ConsoleApplication
         }
 
 
+        // na patryka zyczenie wilku pies
+
 
 
 
