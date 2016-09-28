@@ -19,6 +19,7 @@ namespace ConsoleApplication
 
 
         // na patryka zyczenie wilku pies
+        // nieprawda
         static void DodajMnie()
         {
             Console.WriteLine("PLZZZZZZ :CC");
