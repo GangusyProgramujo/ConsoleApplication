@@ -12,6 +12,7 @@ namespace ConsoleApplication
         {
             Console.Write("Uszanowanko");
             Console.WriteLine("Nie dzaua nic");
+            Console.Write("foszek paproszek");
         }
     }
 }
