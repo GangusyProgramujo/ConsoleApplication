@@ -10,6 +10,9 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.Write("Uszanowanko");
+            Console.WriteLine("Nie dzaua nic");
+            Console.Write("foszek paproszek");
             Console.WriteLine("NIE DZIALA!");
         }
     }
