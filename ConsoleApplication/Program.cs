@@ -17,6 +17,8 @@ namespace ConsoleApplication
             DodajMnie();
         }
 
+
+        // na patryka zyczenie wilku pies
         static void DodajMnie()
         {
             Console.WriteLine("PLZZZZZZ :CC");
