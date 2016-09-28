@@ -14,8 +14,14 @@ namespace ConsoleApplication
             Console.WriteLine("Nie dzaua nic");
             Console.Write("foszek paproszek");
             Console.WriteLine("NIE DZIALA!");
+
+
             DodajMnie();
         }
+
+
+
+
 
         static void DodajMnie()
         {
